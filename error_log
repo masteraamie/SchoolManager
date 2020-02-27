@@ -1,0 +1,3 @@
+[21-May-2017 11:32:38 UTC] PHP Fatal error:  Call to undefined method TransportModel::get_routes() in /home/sbsmanager/public_html/application/controllers/FeeController.php on line 191
+[21-May-2017 11:32:39 UTC] PHP Fatal error:  Call to undefined method TransportModel::get_routes() in /home/sbsmanager/public_html/application/controllers/FeeController.php on line 191
+[22-May-2017 06:18:31 UTC] PHP Fatal error:  Call to a member function get_student_where_id() on null in /home/sbsmanager/public_html/application/models/LoginModel.php on line 338
